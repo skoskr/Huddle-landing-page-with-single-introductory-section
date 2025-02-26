@@ -31,4 +31,4 @@ This is a solution to the [Huddle landing page with single introductory section 
 ## Author
 
 - Github - [@skoskr](https://github.com/skoskr)
-- Frontend Mentor - [@skoskr](https://www.frontendmentor.io/profile/skoskr)# Huddle-landing-page-with-single-introductory-section
+- Frontend Mentor - [@skoskr](https://www.frontendmentor.io/profile/skoskr)
